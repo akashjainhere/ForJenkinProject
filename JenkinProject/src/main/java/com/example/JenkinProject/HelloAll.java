@@ -7,6 +7,7 @@ public class HelloAll {
 		System.err.println("Hii All");
 		System.err.println("Just to check");
 		System.out.println("Hiii");
+		System.out.println("Hoooo");
 	}
 
 }
